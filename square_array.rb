@@ -1,6 +1,8 @@
 
 def square_array(array)
-  square_array.each do |numbers|
-     
-  end
+  square_array.collect {|numbers|}
 end
+
+
+
+#(r1..r2).collect { |obj| block }
