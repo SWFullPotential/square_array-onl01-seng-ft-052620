@@ -1,8 +1,9 @@
-
 def square_array(array)
-  square_array.collect {|numbers| puts}
+
+ new_array = []
+
+ array.each do |integer|
+  new_array << integer ** 2
+ end
+ return new_array
 end
-
-
-
-#(r1..r2).collect { |obj| block }
