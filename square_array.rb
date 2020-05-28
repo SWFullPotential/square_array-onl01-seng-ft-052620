@@ -1,6 +1,6 @@
 
 def square_array(array)
-  square_array.collect {|numbers|}
+  square_array.collect {|numbers| puts}
 end
 
 
