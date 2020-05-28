@@ -3,6 +3,6 @@ def square_array(array)
     puts 
 end
 
-square_array = [1, 2, 3]
-square_array.each do |numbers|
-  puts 
+# square_array = [1, 2, 3]
+# square_array.each do |numbers|
+#   puts 
